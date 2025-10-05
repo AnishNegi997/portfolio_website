@@ -64,11 +64,12 @@ portfolio-website/
 
 ## 📬 Contact  
 📧 **anishnegi997@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/anish-negi) | [GitHub](https://github.com/)  
+🔗 [LinkedIn](www.linkedin.com/in/anish-negi) | [GitHub](https://github.com/AnishNegi997)  
 
 ---
 
 ⭐ **If you like this project, consider giving it a star on GitHub!** ⭐
+
 
 
 
