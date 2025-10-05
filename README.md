@@ -49,8 +49,7 @@ portfolio-website/
 ```
 
 ## 🌐 Live Demo  
-👉 **[View Portfolio](https://your-portfolio-link.com)**  
-*(Replace with your actual hosted link — GitHub Pages, Netlify, or Vercel)*  
+👉 **[View Portfolio](https://anishnegi997.github.io/portfolio_website/)**
 
 ---
 
@@ -70,6 +69,7 @@ portfolio-website/
 ---
 
 ⭐ **If you like this project, consider giving it a star on GitHub!** ⭐
+
 
 
 
