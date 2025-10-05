@@ -35,15 +35,18 @@ It acts as my digital resume — showcasing my **skills, education, and contact 
 
 ---
 
-## 🧩 Project Structure  
+## 🧩 Project Structure
+
+```bash
 portfolio-website/
 │
 ├── index.html
 ├── style.css
 ├── assets/
-│ ├── images/
-│ └── icons/
+│   ├── images/
+│   └── icons/
 └── README.md
+
 
 
 ---
@@ -75,3 +78,4 @@ portfolio-website/
 ---
 
 ⭐ **If you like this project, consider giving it a star on GitHub!** ⭐
+
