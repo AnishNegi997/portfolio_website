@@ -59,11 +59,6 @@ portfolio-website/
 - Learned to organize content with clean structure and hierarchy  
 - Improved sense of design, typography, and spacing  
 
----
-
-## 📸 Preview  
-![Website Screenshot](assets/images/preview2.png)  
-*(Add or replace with an actual image of your site)*  
 
 ---
 
@@ -74,6 +69,7 @@ portfolio-website/
 ---
 
 ⭐ **If you like this project, consider giving it a star on GitHub!** ⭐
+
 
 
 
