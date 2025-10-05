@@ -1,6 +1,7 @@
 ﻿# 🌐 Personal Portfolio Website  
 
-<img width="1385" height="716" alt="image" src="https://github.com/user-attachments/assets/2bd28341-506a-4608-8e4d-7ac89e043595" />
+<img width="1326" height="707" alt="image" src="https://github.com/user-attachments/assets/9506f706-68bf-4dc4-9c47-c6472563ed1d" />
+
 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]()
@@ -69,6 +70,7 @@ portfolio-website/
 ---
 
 ⭐ **If you like this project, consider giving it a star on GitHub!** ⭐
+
 
 
 
